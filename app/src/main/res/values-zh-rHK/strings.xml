@@ -73,9 +73,6 @@
     <string name="about_license_tab_title">授權條款</string>
 
     <string name="widget_note_list_title">筆記清單</string>
-    <string name="widget_note_list_add">添加新筆記</string>
-    <string name="widget_note_list_add_favorite">將新筆記添加到收藏夾</string>
-    <string name="widget_note_list_add_to_category">將新筆記添加到 %1$s</string>
     <string name="widget_note_list_placeholder">沒有筆記</string>
     <string name="widget_single_note_title">單則筆記</string>
     <string name="widget_single_note_placeholder_tv">找不到筆記</string>

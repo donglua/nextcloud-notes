@@ -73,9 +73,6 @@
     <string name="about_license_tab_title">Licence</string>
 
     <string name="widget_note_list_title">Seznam poznámek</string>
-    <string name="widget_note_list_add">Přidat novou poznámku</string>
-    <string name="widget_note_list_add_favorite">Přidat novou poznámku do oblíbených</string>
-    <string name="widget_note_list_add_to_category">Přidat novou poznámku do %1$s</string>
     <string name="widget_note_list_placeholder">Žádné poznámky</string>
     <string name="widget_single_note_title">Jediná poznámka</string>
     <string name="widget_single_note_placeholder_tv">Poznámka nenalezena</string>
@@ -114,7 +111,7 @@
     <string name="simple_checkbox">Zatržítko</string>
     <string name="unlock_notes">Odemknout poznámky</string>
     <string name="simple_beta">Vývojové</string>
-    <string name="error_dialog_title">Ó ne– co teď? 🙁</string>
+    <string name="error_dialog_title">Ó ne – co teď? 🙁</string>
     <string name="error_dialog_tip_token_mismatch_retry">Prosím pokuste se vynutit ukončení aplikace a spusťte ji znovu. Možná se něco nepodařilo při spojení s aplikací Nextcloud.</string>
     <string name="error_dialog_tip_token_mismatch_clear_storage">Pokud problém přetrvává, zkuste problém vyřešit vyčištěním úložišť obou aplikací: Nextcloud a Nextcloud poznámky.</string>
     <string name="error_dialog_tip_clear_storage">Úložiště můžete vyčistit otevřením nformací o aplikaci a vybráním Úložiště a mezipaměť → Vyčistit úložiště. ⚠️ Varování: toto nenávratně odstraní poznámky, které ještě nebyly synchronizovány se serverem. </string>
@@ -220,7 +217,7 @@
     <string name="formatting_help_lists_body_8">Dát lajk</string>
     <string name="formatting_help_lists_body_9">A toto</string>
 
-    <string name="formatting_help_checkboxes_title">Zatržítka</string>
+    <string name="formatting_help_checkboxes_title">Zaškrtávací pole</string>
     <string name="formatting_help_checkboxes_body_1">Pro vytvoření zaškrtávací kolonky použijte seznam následovaný závorkami</string>
     <string name="formatting_help_checkboxes_body_2">Položka 1</string>
     <string name="formatting_help_checkboxes_body_3">Položka 2</string>
